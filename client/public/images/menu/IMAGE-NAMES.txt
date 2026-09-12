@@ -1,0 +1,46 @@
+﻿CloudCraves Kitchen - Required Menu Images
+===========================================
+
+Download one good Pexels image for each dish.
+Rename it EXACTLY as shown below.
+
+paneer-tikka.webp  <-  paneer tikka
+chicken-tikka.webp  <-  chicken tikka
+hara-bhara-kebab.webp  <-  hara bhara kebab
+veg-manchurian.webp  <-  veg manchurian
+chicken-65.webp  <-  chicken 65
+crispy-corn.webp  <-  crispy corn
+tandoori-chicken.webp  <-  tandoori chicken
+cheese-garlic-bread.webp  <-  cheese garlic bread
+butter-chicken.webp  <-  butter chicken
+paneer-butter-masala.webp  <-  paneer butter masala
+kadai-paneer.webp  <-  kadai paneer
+dal-makhani.webp  <-  dal makhani
+chole-masala.webp  <-  chole masala
+chicken-tikka-masala.webp  <-  chicken tikka masala
+chicken-kadai.webp  <-  chicken kadai
+palak-paneer.webp  <-  palak paneer
+veg-kolhapuri.webp  <-  veg kolhapuri
+mix-veg-handi.webp  <-  mixed vegetable curry
+chicken-biryani.webp  <-  chicken biryani
+veg-biryani.webp  <-  vegetable biryani
+mutton-biryani.webp  <-  mutton biryani
+paneer-biryani.webp  <-  paneer biryani
+jeera-rice.webp  <-  jeera rice
+veg-fried-rice.webp  <-  vegetable fried rice
+veg-burger.webp  <-  vegetarian burger
+chicken-burger.webp  <-  chicken burger
+paneer-wrap.webp  <-  paneer wrap
+chicken-shawarma.webp  <-  chicken shawarma
+margherita-pizza.webp  <-  margherita pizza
+peri-peri-chicken-pizza.webp  <-  peri peri chicken pizza
+chocolate-brownie.webp  <-  chocolate brownie
+gulab-jamun.webp  <-  gulab jamun
+rasmalai.webp  <-  rasmalai
+mango-cheesecake.webp  <-  mango cheesecake
+kulfi.webp  <-  kulfi
+mango-lassi.webp  <-  mango lassi
+masala-chaas.webp  <-  chaas
+fresh-lime-soda.webp  <-  lime soda
+cold-coffee.webp  <-  cold coffee
+virgin-mojito.webp  <-  virgin mojito
